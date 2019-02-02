@@ -1,4 +1,9 @@
-# Desafio 3
+# Desafio Rocketseat Bootcamp - GoNative Nível 3
+
+ Esse git é para postar a solução desenvolvida por mim, como o proposito deste desafio é só verificar o conheimento e logica relacionado a tecnologia, não estarei preocupando com melhorias, e sim só completar as normas solicitadas pelo desafio.
+ OBS. nesse especifico eu brinquei um pouco e fiz algumas coisas a mais.
+
+## O Desafio 
 
 Crie uma aplicação do zero e configura as ferramentas: ESLint, Reactotron, Babel Root Import e EditorConfig.
 
@@ -36,3 +41,6 @@ _PS2.: Após concluir o desafio, adicionar esse código ao seu Github é uma boa
 Booooooora dev!!!
 
 “Não espere resultados brilhantes se suas metas não forem claras”!
+
+## Agradecimento	
+ **@Rocketseat ( [Github](https://github.com/Rocketseat) | [Site](https://rocketseat.com.br/) )**
